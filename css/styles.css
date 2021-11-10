@@ -41,7 +41,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 189, 93, 56;
+  --bs-primary-rgb: radial-gradient(circle at 12.5% 12.5%, #0083ff 0, #007dff 6.25%, #0077ff 12.5%, #006eff 18.75%, #0064ff 25%, #4358ff 31.25%, #7c49ff 37.5%, #9f35f1 43.75%, #ba12e0 50%, #cf00ce 56.25%, #e000ba 62.5%, #ec00a6 68.75%, #f60091 75%, #fc007c 81.25%, #ff0067 87.5%, #ff0053 93.75%, #fd003f 100%);
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
